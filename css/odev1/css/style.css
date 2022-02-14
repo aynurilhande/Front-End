@@ -1,0 +1,23 @@
+
+.list {
+    list-style-position: inside;
+    text-align: center;
+}
+
+.ff {
+    font-family: 'Roboto', sans-serif;
+}
+.text-darkpurple {
+    color: #FF5C58;
+}
+.text-blue {
+    color: #7897AB;
+}
+
+.text-purple {
+    color : #655D8A;
+}
+
+.text-gray {
+    color : #90AACB;
+}
